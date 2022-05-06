@@ -6,6 +6,7 @@ import {
   ImageProps,
   Text,
 } from "react-native";
+import { FeedbackType } from "../Widget";
 
 import { styles } from "./styles";
 
